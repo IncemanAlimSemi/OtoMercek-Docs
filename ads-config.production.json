@@ -25,7 +25,7 @@
     "alan2": {
       "enabled": true,
       "mode": "ad",
-      "imageUrl": "https://drive.google.com/uc?export=view&id=1xapt8Rl5awNsXsg0A85EQ0uSZE9DBUYd",
+      "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan2-260x72.png",
       "thumbImageUrl": "",
       "targetUrl": "",
       "altText": {
@@ -42,7 +42,7 @@
     "alan3": {
       "enabled": true,
       "mode": "ad",
-      "imageUrl": "https://drive.google.com/uc?export=view&id=1tuzp-aEFDfticqjSdSvest-d4T0cbg8l",
+      "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan3-728x92.png",
       "thumbImageUrl": "",
       "targetUrl": "https://www.google.com",
       "altText": {
@@ -59,8 +59,8 @@
     "alan4": {
       "enabled": true,
       "mode": "ad",
-      "imageUrl": "https://drive.google.com/uc?export=view&id=1Snk-IRMsUog2eMqXgB6KInhZcXO5_Xdh",
-      "thumbImageUrl": "https://drive.google.com/uc?export=view&id=1s2TrvpW0qILab0ZgQVFITtvfhpwhCCW5",
+      "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan4-main-960x600.png",
+      "thumbImageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan4-thumb-96x96.png",
       "targetUrl": "https://www.google.com",
       "altText": {
         "tr": "Alan 4 reklami",
@@ -76,8 +76,8 @@
     "alan5": {
       "enabled": true,
       "mode": "ad",
-      "imageUrl": "https://drive.google.com/uc?export=view&id=1PrSR55HrwoP6iAFXgYN6bp_UoWkNpoYz",
-      "thumbImageUrl": "https://drive.google.com/uc?export=view&id=1OKtBkJMtDb34I8GEBk22kReJNTQaO6Co",
+      "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan5-main-960x600.png",
+      "thumbImageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan5-thumb-96x96.png",
       "targetUrl": "",
       "altText": {
         "tr": "Alan 5 reklam alani",
