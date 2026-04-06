@@ -7,7 +7,7 @@
   "slots": {
     "alan1": {
       "enabled": true,
-      "mode": "cta",
+      "mode": "ad",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan1-317x84.png",
       "thumbImageUrl": "",
       "targetUrl": "https://www.google.com",
