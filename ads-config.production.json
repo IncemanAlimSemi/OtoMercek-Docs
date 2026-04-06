@@ -24,7 +24,7 @@
     },
     "alan2": {
       "enabled": true,
-      "mode": "cta",
+      "mode": "hide",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan2-260x72.png",
       "thumbImageUrl": "",
       "targetUrl": "https://www.google.com",
