@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-04-06T23:11:00Z",
+  "updatedAt": "2026-04-06T23:13:00Z",
   "refreshIntervalMinutes": 1,
   "defaultLocale": "tr",
   "contactEmail": "reklam@otomercek.com",
@@ -24,7 +24,7 @@
     },
     "alan2": {
       "enabled": true,
-      "mode": "ad",
+      "mode": "cta",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan2-260x72.png",
       "thumbImageUrl": "",
       "targetUrl": "https://www.google.com",
