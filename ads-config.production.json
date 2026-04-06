@@ -78,7 +78,7 @@
       "mode": "ad",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan5-main-960x600.png",
       "thumbImageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan5-thumb-96x96.png",
-      "targetUrl": "",
+      "targetUrl": "https://www.google.com",
       "altText": {
         "tr": "Alan 5 reklam alani",
         "en": "Slot 5 ad area"
