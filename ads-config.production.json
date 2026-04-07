@@ -7,7 +7,7 @@
   "slots": {
     "alan1": {
       "enabled": true,
-      "mode": "cta",
+      "mode": "ad",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan1-317x84.png",
       "thumbImageUrl": "",
       "targetUrl": "https://www.google.com",
@@ -24,7 +24,7 @@
     },
     "alan2": {
       "enabled": true,
-      "mode": "cta",
+      "mode": "ad",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan2-260x72.png",
       "thumbImageUrl": "",
       "targetUrl": "https://www.google.com",
@@ -41,7 +41,7 @@
     },
     "alan3": {
       "enabled": true,
-      "mode": "cta",
+      "mode": "ad",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan3-main-960x600.png",
       "thumbImageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan3-thumb-96x96.png",
       "targetUrl": "https://www.google.com",
@@ -58,7 +58,7 @@
     },
     "alan4": {
       "enabled": true,
-      "mode": "cta",
+      "mode": "ad",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan4-728x92.png",
       "thumbImageUrl": "",
       "targetUrl": "https://www.google.com",
@@ -75,7 +75,7 @@
     },
     "alan5": {
       "enabled": true,
-      "mode": "cta",
+      "mode": "ad",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan5-main-960x600.png",
       "thumbImageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan5-thumb-96x96.png",
       "targetUrl": "https://www.google.com",
