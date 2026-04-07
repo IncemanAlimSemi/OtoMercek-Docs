@@ -6,7 +6,7 @@
   "contactEmail": "reklam@otomercek.com",
   "slots": {
     "alan1": {
-      "enabled": false,
+      "enabled": true,
       "mode": "cta",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan1-317x84.png",
       "thumbImageUrl": "",
@@ -23,7 +23,7 @@
       "endsAt": "2026-04-30T23:59:59Z"
     },
     "alan2": {
-      "enabled": false,
+      "enabled": true,
       "mode": "cta",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan2-260x72.png",
       "thumbImageUrl": "",
@@ -40,7 +40,7 @@
       "endsAt": "2026-04-30T23:59:59Z"
     },
     "alan3": {
-      "enabled": false,
+      "enabled": true,
       "mode": "cta",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan3-main-960x600.png",
       "thumbImageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan3-thumb-96x96.png",
@@ -57,7 +57,7 @@
       "endsAt": "2026-04-30T23:59:59Z"
     },
     "alan4": {
-      "enabled": false,
+      "enabled": true,
       "mode": "cta",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan4-728x92.png",
       "thumbImageUrl": "",
@@ -74,7 +74,7 @@
       "endsAt": "2026-04-30T23:59:59Z"
     },
     "alan5": {
-      "enabled": false,
+      "enabled": true,
       "mode": "cta",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan5-main-960x600.png",
       "thumbImageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan5-thumb-96x96.png",
