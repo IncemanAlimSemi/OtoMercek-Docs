@@ -6,7 +6,7 @@
   "contactEmail": "reklam@otomercek.com",
   "slots": {
     "alan1": {
-      "enabled": true,
+      "enabled": false,
       "mode": "cta",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan1-317x84.png",
       "thumbImageUrl": "",
