@@ -7,8 +7,8 @@
   "slots": {
     "alan1": {
       "enabled": true,
-      "mode": "cta",
-      "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan1-banner.svg",
+      "mode": "ad",
+      "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/banners/alan1-banner.svg",
       "thumbImageUrl": "",
       "targetUrl": "https://www.google.com",
       "altText": {
@@ -24,8 +24,8 @@
     },
     "alan2": {
       "enabled": true,
-      "mode": "cta",
-      "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan2-banner.svg",
+      "mode": "ad",
+      "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/banners/alan2-banner.svg",
       "thumbImageUrl": "",
       "targetUrl": "https://www.google.com",
       "altText": {
@@ -41,9 +41,9 @@
     },
     "alan3": {
       "enabled": true,
-      "mode": "cta",
-      "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan3-banner.svg",
-      "thumbImageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan3-thumb.svg",
+      "mode": "ad",
+      "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/banners/alan3-banner.svg",
+      "thumbImageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/banners/alan3-thumb.svg",
       "targetUrl": "https://www.google.com",
       "altText": {
         "tr": "Alan 3 reklami",
@@ -58,8 +58,8 @@
     },
     "alan4": {
       "enabled": true,
-      "mode": "cta",
-      "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan4-banner.svg",
+      "mode": "ad",
+      "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/banners/alan4-banner.svg",
       "thumbImageUrl": "",
       "targetUrl": "https://www.google.com",
       "altText": {
@@ -75,9 +75,9 @@
     },
     "alan5": {
       "enabled": true,
-      "mode": "cta",
-      "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan5-banner.svg",
-      "thumbImageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/alan5-thumb.svg",
+      "mode": "ad",
+      "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/banners/alan5-banner.svg",
+      "thumbImageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/ads/refs/heads/main/banners/alan5-thumb.svg",
       "targetUrl": "https://www.google.com",
       "altText": {
         "tr": "Alan 5 reklam alani",
