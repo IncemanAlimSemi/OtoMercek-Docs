@@ -7,7 +7,7 @@
   "slots": {
     "alan1": {
       "enabled": true,
-      "mode": "hide",
+      "mode": "ad",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/OtoMercek-Docs/refs/heads/main/ads/banners/alan1-banner.svg",
       "thumbImageUrl": "",
       "targetUrl": "https://www.google.com",
@@ -24,7 +24,7 @@
     },
     "alan2": {
       "enabled": true,
-      "mode": "hide",
+      "mode": "ad",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/OtoMercek-Docs/refs/heads/main/ads/banners/alan2-banner.svg",
       "thumbImageUrl": "",
       "targetUrl": "https://www.google.com",
@@ -41,7 +41,7 @@
     },
     "alan3": {
       "enabled": true,
-      "mode": "hide",
+      "mode": "ad",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/OtoMercek-Docs/refs/heads/main/ads/banners/alan3-banner.svg",
       "thumbImageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/OtoMercek-Docs/refs/heads/main/ads/banners/alan3-thumb.svg",
       "targetUrl": "https://www.google.com",
@@ -58,7 +58,7 @@
     },
     "alan4": {
       "enabled": true,
-      "mode": "hide",
+      "mode": "ad",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/OtoMercek-Docs/refs/heads/main/ads/banners/alan4-banner.svg",
       "thumbImageUrl": "",
       "targetUrl": "https://www.google.com",
@@ -75,7 +75,7 @@
     },
     "alan5": {
       "enabled": true,
-      "mode": "hide",
+      "mode": "ad",
       "imageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/OtoMercek-Docs/refs/heads/main/ads/banners/alan5-banner.svg",
       "thumbImageUrl": "https://raw.githubusercontent.com/IncemanAlimSemi/OtoMercek-Docs/refs/heads/main/ads/banners/alan5-thumb.svg",
       "targetUrl": "https://www.google.com",
